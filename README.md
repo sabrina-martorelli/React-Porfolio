@@ -6,7 +6,9 @@ Initial scaffolding of my portfolio sites using Mobile-first design.
 
 ## Screenshot
 
-![screenshot](./assets/images/screenshot.png)
+![screenshot](./assets/images/screenshot1.png)
+![screenshot](./assets/images/screenshot2.png)
+![screenshot](./assets/images/screenshot3.png)
 
 ## Table of Contents   
   - [Description](#description) 
