@@ -2,17 +2,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Initial scaffolding of my portfolio sites using Mobile-first design.
+Initial scaffolding of my portfolio sites using react, bootstrap and mobile-first design.
 
-## Screenshot
+## Screenshots
 
-![screenshot](./assets/images/screenshot1.png)
-![screenshot](./assets/images/screenshot2.png)
-![screenshot](./assets/images/screenshot3.png)
+![screenshot](https://drive.google.com/uc?id=1b_rd8Q_TeO5xLEYtxfPgo9JxPu30ChPq)
+![screenshot](https://drive.google.com/uc?id=1LqaF1oO0nmrbQ7Q1essydMrP0Lj_pdCA)
+![screenshot](https://drive.google.com/uc?id=1NMRAKr6nP7Xw27r6-kxcNWCuhj0ZuZOh)
+
 
 ## Table of Contents   
   - [Description](#description) 
-  - [Screenshot](#screenshot) 
+  - [Screenshots](#screenshots) 
   - [Installation](#installation) 
   - [License](#license)
   - [Contributing](#contributing)
